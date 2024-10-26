@@ -25,7 +25,7 @@
 
 <p> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/xautik/count.svg" />
+  <img src="https://profile-counter.glitch.me/xautiik/count.svg" />
 </p> 
  <!--
 [![](https://visitcount.itsvg.in/api?id=xautik&label=Profile%20Views&theme=dark&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
@@ -42,13 +42,13 @@
 -->
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautik&theme=dark&hide_border=true)](https://github.com/xautik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&theme=dark&hide_border=true)](https://github.com/xautik/github-readme-stats)
 #
 
 <br>
 
-![](https://raw.githubusercontent.com/xautik/xautik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/xautik/xautik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/xautik/xautiik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/xautik/xautiik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
