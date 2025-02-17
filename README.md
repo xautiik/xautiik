@@ -47,8 +47,8 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/xautik/xautiik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/xautik/xautiik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
