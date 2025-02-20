@@ -40,13 +40,11 @@
 </span>
 </div>
 -->
+<p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xautiik&show_icons=true&theme=radical&locale=en&layout=compact" alt="xautiik" /></p>
-<p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=radical&locale=en" alt="xautiik" /></p>
-
-
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&theme=dark&hide_border=true)](https://github.com/xautiik/github-readme-stats)
-
+#
 
 <br>
 
