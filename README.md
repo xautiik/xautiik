@@ -1,8 +1,8 @@
 ### Hi there 👋
 
   <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 💬 Ask me about Web Dev <br> &nbsp &nbsp (js,php,css and frameworks), <br> &nbsp &nbsp Graphics Design, IT,App development and <br> &nbsp &nbsp any Computer Science related stuff. <br>
 - 💻 I mainly put frontend and ui stuff here. <br>
+- 🐙 Too many private repos 😫. <br>
 - 📫 Contact me at <a href="mailto:avocarterp@gmail.com" target="_blank">avocarterp@gmail.com</a> <br>
   
 #
@@ -49,6 +49,7 @@
 
 ![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Lines of Code](https://img.shields.io/tokei/lines/github/xautiik/admin-me)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
