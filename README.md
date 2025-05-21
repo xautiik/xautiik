@@ -49,7 +49,7 @@
 
 ![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Lines of Code](https://img.shields.io/tokei/lines/github/xautiik/admin-me)
+![Lines of Code](https://img.shields.io/tokei/lines/github/xautiik/quill-to-word--vite-react)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
