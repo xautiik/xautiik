@@ -48,6 +48,6 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-<img src="https://raw.githubusercontent.com/xautiik/xautiik/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xautiik/xautiik/main/snake.svg" alt="Snake animation" />
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
