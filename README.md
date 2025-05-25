@@ -48,9 +48,7 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&theme=dark&hide_border=true)](https://github.com/xautiik/github-readme-stats)
 #
-<span align=right>
 [![GitHub Streak](https://streak-stats.demolab.com?user=xautiik&count_private=true&theme=dark&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)](https://git.io/streak-stats)
-  </span>
 <br>
 
 ## Watch my contributions get eaten by a snake 🐍
