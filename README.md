@@ -39,7 +39,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautiik&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)
 </span>
   -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xautiik&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
