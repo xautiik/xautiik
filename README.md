@@ -47,8 +47,8 @@
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&theme=dark&hide_border=true)](https://github.com/xautiik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=xautiik&count_private=true&theme=dark&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)](https://git.io/streak-stats)
 <br>
