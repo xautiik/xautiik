@@ -21,24 +21,23 @@
 <code>[![My Skills](https://skillicons.dev/icons?i=figma,git,codepen,docker,wordpress)](https://skillicons.dev)</code>
 <br>
 #
-
+<!--
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/xautiik/count.svg" />
-</p> 
- <!--
-[![](https://visitcount.itsvg.in/api?id=xautik&label=Profile%20Views&theme=dark&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+</p>  -->
+
+[![](https://visitcount.itsvg.in/api?id=xautiik&label=Profile%20Views&theme=dark&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 #
 <div style="display:flex; flex-direction:row">
-<span align=left> -->
-  <!--
-![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&hide_border=true&theme=dark)
+<span align=left>
+![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&hide_border=true&theme=dark)
 </span>
 <span align=right>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautik&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautiik&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)
 </span>
 </div>
--->
+
 <p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" /></p>
 
 #
@@ -47,7 +46,8 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/xautiik/xautiik/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## Watch my contributions get eaten by a snake 🐍
+
+<img src="https://raw.githubusercontent.com/xautiik/xautiik/output/snake.svg" alt="Snake animation" />
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
