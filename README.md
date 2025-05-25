@@ -51,6 +51,6 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![Snake animation](https://xautiik.github.io/xautiik/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/xautiik/xautiik/output/snake.svg)
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
