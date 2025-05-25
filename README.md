@@ -30,20 +30,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=xautiik&label=Profile%20Views&theme=dark&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 #
-<div style="display:flex; flex-direction:row">
-  <!--
-<span align=left>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&hide_border=true&theme=dark)
-</span>
-<span align=right>
-
-</span>
-  -->
-
-
-</div>
-
-<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" />
+<img width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" />
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&layout=compact&theme=dark&hide_border=true)](https://github.com/xautiik/github-readme-stats)
