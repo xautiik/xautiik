@@ -23,10 +23,9 @@
 #
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=xautiik&color=green&style=flat-square)
-
 
 [![](https://visitcount.itsvg.in/api?id=xautiik&label=Profile%20Views&theme=dark&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 #
 <img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" />
 
