@@ -39,6 +39,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautiik&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)
 </span>
   -->
+![Olyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=radical)
+
 </div>
 
 <p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" /></p>
