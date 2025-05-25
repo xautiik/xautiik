@@ -31,12 +31,14 @@
 [![](https://visitcount.itsvg.in/api?id=xautiik&label=Profile%20Views&theme=dark&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 #
 <div style="display:flex; flex-direction:row">
+  <!--
 <span align=left>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&hide_border=true&theme=dark)
 </span>
 <span align=right>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautiik&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)
 </span>
+  -->
 </div>
 
 <p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" /></p>
