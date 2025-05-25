@@ -39,7 +39,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautiik&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)
 </span>
   -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=xautiik&theme=dark)](https://git.io/streak-stats)
+
 
 </div>
 
@@ -48,7 +48,7 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&theme=dark&hide_border=true)](https://github.com/xautiik/github-readme-stats)
 #
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=xautiik&theme=dark)](https://git.io/streak-stats)
 <br>
 
 ## Watch my contributions get eaten by a snake 🐍
