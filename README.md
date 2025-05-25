@@ -21,6 +21,7 @@
 <code>[![My Skills](https://skillicons.dev/icons?i=figma,git,codepen,docker,wordpress)](https://skillicons.dev)</code>
 <br>
 #
+
 <!--
 <p> 
   Visitor count<br>
@@ -31,7 +32,7 @@
 #
 <div style="display:flex; flex-direction:row">
 <span align=left>
-![Kayodee's github stats](https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&hide_border=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&hide_border=true&theme=dark)
 </span>
 <span align=right>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xautiik&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)
