@@ -37,8 +37,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=xautiik&count_private=true&theme=dark&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&hide_border=true)](https://git.io/streak-stats)
 <br>
 
-## Watch my contributions get eaten by a snake 🐍
-
 ![Snake animation](https://raw.githubusercontent.com/xautiik/xautiik/output/snake.svg)
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
