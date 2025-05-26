@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -18,6 +18,9 @@ jobs:
           github_user_name: xautiik
           outputs: |
             dist/snake.svg
+          color_snake: "#1abc9c"
+          color_dots: "#1e1e22,#D0E6A5,#A3CC74,#588157,#3B4F2B"
+          background: "#1b1f230a"
 
       - name: Push SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3
