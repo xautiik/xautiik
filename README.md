@@ -40,3 +40,4 @@
 ![Snake animation](https://raw.githubusercontent.com/xautiik/xautiik/output/snake.svg)
 <!--
 ![](https://komarev.com/ghpvc/?username=xautik) -->
+![](https://hit.yhype.me/github/profile?account_id=185494575)
