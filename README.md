@@ -28,7 +28,7 @@
   <img src="https://profile-counter.glitch.me/xautiik/count.svg" />
 </p> 
 
-<img align="left" width=425px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" />
+<img align="left" width=425px src="https://github-readme-stats.vercel.app/api?username=xautik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" />
 
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xautiik&layout=compact&theme=dark&hide_border=true)](https://github.com/xautiik/github-readme-stats)
