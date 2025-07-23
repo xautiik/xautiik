@@ -16,11 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: xautiik
-          outputs: |
-            dist/snake.svg
-          color_snake: "#1abc9c"
-          color_dots: "#1e1e22,#D0E6A5,#A3CC74,#588157,#3B4F2B"
-          background: "#1b1f230a"
+          outputs: dist/snake.svg?palette=github-dark
 
       - name: Push SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3
