@@ -4,6 +4,7 @@
 - 💻 I mainly put frontend and ui stuff here. <br>
 - 🐙 REAL!💯. <br>
 - 📫 Contact me at <a href="mailto:avocarterp@gmail.com" target="_blank">avocarterp@gmail.com</a> <br>
+- 👨🏽‍💻 Check out my <a href="https://olyad.vercel.app" target="_blank">portfolio</a> </br> 
   
 #
 **Languages and Tools:**  
