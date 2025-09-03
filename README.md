@@ -24,10 +24,10 @@
 #
 
 
-<p> 
-  <!-- Visitor count<br> -->
+<!-- <p> 
+   Visitor count<br> 
   <img src="https://profile-counter.glitch.me/xautiik/count.svg" />
-</p> 
+</p> -->
 
 <img align="left" width=425px src="https://github-readme-stats.vercel.app/api?username=xautiik&show_icons=true&theme=dark&hide_border=true&locale=en" alt="xautiik" />
 
