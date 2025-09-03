@@ -25,7 +25,7 @@
 
 
 <p> 
-  Visitor count<br>
+  <!-- Visitor count<br> -->
   <img src="https://profile-counter.glitch.me/xautiik/count.svg" />
 </p> 
 
@@ -40,5 +40,5 @@
 
 ![Snake animation](https://raw.githubusercontent.com/xautiik/xautiik/output/snake.svg)
 <!--
-![](https://komarev.com/ghpvc/?username=xautiik) -->
-![](https://hit.yhype.me/github/profile?account_id=185494575)
+![](https://komarev.com/ghpvc/?username=xautiik) 
+![](https://hit.yhype.me/github/profile?account_id=185494575) -->
